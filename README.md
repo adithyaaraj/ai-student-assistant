@@ -1,2 +1,18 @@
-# ai-student-assistant
-AI-based web application that helps students explain concepts, generate MCQs, summarize text, and improve writing using Google Gemini API.
+# dependencies
+node_modules/
+
+# environment variables
+.env
+server/.env
+client/.env
+
+# build folders
+build/
+dist/
+
+# logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
